@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    border: 2px solid black;box-sizing: border-box;
+    font-size: 20px;
+    text-align: center;
+    
+}
+th, td {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+}
+th {
+    background-color: #ffffff;
+}
+.container{
+    border: 2px solid black;
+    height: 300px;
+    width: 1020px;
+    margin: auto;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.table2{
+    width: 1000px;
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+}

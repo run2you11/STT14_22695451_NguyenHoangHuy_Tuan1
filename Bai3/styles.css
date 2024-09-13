@@ -1,0 +1,92 @@
+
+.box1{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    padding-left: 10px;
+}
+.box2{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    padding-left: 10px;
+}
+.slide1{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide2{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+}
+.slide1 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide2 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide3{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+}
+.slide3 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide4{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+}
+.slide4 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide5{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+}
+.slide5 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
+.slide6{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px;
+}
+.slide6 a {
+    width: 150px;
+    height: 60px;
+    display: flex;
+    gap: 5px
+    ;
+}
